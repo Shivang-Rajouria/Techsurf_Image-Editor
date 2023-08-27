@@ -11,11 +11,11 @@ PhotoHack Image Editor is a simple web-based image editor that allows you to app
 ## Getting Started
 
 Since the size of model is larger than 100MB,I have provided the Drive link to the whole source code from where one can copy the models folder and paste it in backend to run the ML model and hence run the application.
-Google Drive link:`https://drive.google.com/drive/folders/1nv1rGWSlOR0V38iULZTYBR27qZU7aRT3?usp=sharing`
+[Google Drive link](https://drive.google.com/drive/folders/1nv1rGWSlOR0V38iULZTYBR27qZU7aRT3?usp=sharing)
 
 To run Easy Image Editor on your local machine, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:`https://github.com/Shivang-Rajouria/Techsurf_Image-Editor.git`
 2. Navigate to the project directory: `cd Photohack-main`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
